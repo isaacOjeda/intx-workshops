@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28307.438
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "eShopOnIntelectix.Web", "eShopOnIntelectix.Web\eShopOnIntelectix.Web.csproj", "{836FDC2E-CA24-4FCC-9FE4-C1F2EA46562C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eShopOnIntelectix.Api", "eShopOnIntelectix.Api\eShopOnIntelectix.Api.csproj", "{B7BDE2CD-889C-4422-AC66-86722539AC07}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{836FDC2E-CA24-4FCC-9FE4-C1F2EA46562C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{836FDC2E-CA24-4FCC-9FE4-C1F2EA46562C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{836FDC2E-CA24-4FCC-9FE4-C1F2EA46562C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B7BDE2CD-889C-4422-AC66-86722539AC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7BDE2CD-889C-4422-AC66-86722539AC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7BDE2CD-889C-4422-AC66-86722539AC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7BDE2CD-889C-4422-AC66-86722539AC07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
