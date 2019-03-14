@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace IntelectixWorkshop.Web
+namespace eShopOnIntelectix.Web
 {
     public class Startup
     {

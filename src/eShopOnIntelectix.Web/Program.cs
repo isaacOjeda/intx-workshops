@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace IntelectixWorkshop.Web
+namespace eShopOnIntelectix.Web
 {
     public class Program
     {
