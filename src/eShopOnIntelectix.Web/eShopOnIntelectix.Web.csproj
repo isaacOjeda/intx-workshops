@@ -19,7 +19,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Controllers\" />
+    <Folder Include="Views\" />
     <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\eShopOnIntelectix.Application\eShopOnIntelectix.Application.csproj" />
+    <ProjectReference Include="..\eShopOnIntelectix.Domain\eShopOnIntelectix.Domain.csproj" />
+    <ProjectReference Include="..\eShopOnIntelectix.Infrastructure\eShopOnIntelectix.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
