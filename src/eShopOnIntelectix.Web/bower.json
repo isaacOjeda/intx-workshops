@@ -1,0 +1,6 @@
+{
+  "name": "eshoponintelectixweb",
+  "dependencies": {
+    "bootstrap": "3.4.1"
+  }
+}
